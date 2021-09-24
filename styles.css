@@ -1,0 +1,14 @@
+*, p, strong, small {
+	font-family: 'Montserrat', sans-serif;
+	color: #fff !important;
+	text-align: center;
+}
+
+#twitterhandle {
+	color: #3c88c3 !important;
+	font-weight: bold;
+}
+
+body {
+	background-color: #333;
+}
